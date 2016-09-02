@@ -39,7 +39,7 @@ body {
 .content {
     width: 80%;
     max-width: 800px;
-    min-width: 300px;
+    min-width: 280px;
     height: 100%;
     padding: 3em;  
     overflow: auto;

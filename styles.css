@@ -26,14 +26,14 @@ html {
 /* All font sizing that follows based on the modular scale at http://www.modularscale.com/*/
 body {
  line-height: 1.2;
- font-size: 100%;
+ /* font-size: 100%; */
  font-family: Palatino, 'Palatino Linotype', Palladio, 'URW Palladio', Garamond, Georgia, serif;
  width: 100%;
  height: 100%;
  padding: 0 2em 0 2em;
  background: #FFAD61;}
  
-@media only screen and (min-width: 770px){body{font-size: 70%}} 
+/* @media only screen and (min-width: 770px){body{font-size: 70%}} */
 
 
 .content {
@@ -93,7 +93,6 @@ section {
     
 section p {
     margin-left: .3em;
-    /* margin-bottom: .3em; */
 }
  .tag {
     font-size: 1.44em; }

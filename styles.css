@@ -106,7 +106,7 @@ section {
 section p {
     margin-left: .3em;
 }
- .tag {
+ .tag p{
     font-size: 1.44em; 
     margin-bottom: 1em;
     font-weight: bold;

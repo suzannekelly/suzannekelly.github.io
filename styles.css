@@ -116,8 +116,10 @@ section p {
      font-size: 1.44em; }
      
 .quote {
-   margin: .198em auto 0 auto;
-   font-style: italic; }
+   margin-top: .198em;
+   font-style: italic; 
+   text-align: center;
+}
   
 .treatment {
     font-size: 1.44em;

@@ -33,9 +33,9 @@ body {
  padding: 0 2em 0 2em;
  background: #FFAD61;}
  
-@media only screen and (min-device-width: 450px){body{font-size: 70%}} 
+@media only screen and (min-device-width: 450px){body{font-size: 60%}} 
 
-@media only screen and (min-device-width: 620px){body{font-size: 100%}} 
+@media only screen and (min-device-width: 600px){body{font-size: 100%}} 
  
 @media only screen and (min-device-width: 770px){body{font-size: 70%}} 
 

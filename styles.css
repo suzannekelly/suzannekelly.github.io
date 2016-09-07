@@ -114,6 +114,10 @@ section p {
  
  header p {
      font-size: 1.44em; }
+     
+.quote {
+   margin: .198em auto 0 auto;
+   font-style: italic; }
   
 .treatment {
     font-size: 1.44em;

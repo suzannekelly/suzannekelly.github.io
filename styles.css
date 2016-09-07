@@ -107,7 +107,10 @@ section p {
     margin-left: .3em;
 }
  .tag {
-    font-size: 1.44em; }
+    font-size: 1.44em; 
+    margin-bottom: 1em;
+    font-weight: bold;
+ }
  
  header p {
      font-size: 1.44em; }

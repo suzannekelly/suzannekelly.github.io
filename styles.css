@@ -63,6 +63,8 @@ h1 {
     margin-bottom: .198em;
     padding-bottom: .198em; 
     border-bottom: .05em solid black;}
+    
+@media only screen and (min-device-width){h1{font-size: 3em}}
 
 h2 {
     font-size: 2.488em;
